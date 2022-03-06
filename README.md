@@ -1,1 +1,1 @@
-## Maxwell's Distributon of speeds of gas molecules
+### Maxwell's Distributon of speeds of gas molecules
